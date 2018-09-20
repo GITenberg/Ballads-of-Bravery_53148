@@ -1,0 +1,28 @@
+_repo: Ballads-of-Bravery_53148
+_version: 0.0.1
+creator:
+  editor:
+    agent_name: Baker, George M. (George Melville)
+    aliases:
+    - Baker, George Melville
+    - Baker, G. M. (George Melville)
+    birthdate: 1832
+    deathdate: 1890
+    gutenberg_agent_id: '44486'
+    url: http://www.gutenberg.org/2009/agents/44486
+    wikipedia: http://en.wikipedia.org/wiki/George_Melville_Baker
+description: ''
+gutenberg_issued: '2016-09-26'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '53148'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PN'
+- !lcsh 'Poetry'
+- GITenberg
+title: Ballads of Bravery
+url: http://www.gutenberg.org/ebooks/53148
